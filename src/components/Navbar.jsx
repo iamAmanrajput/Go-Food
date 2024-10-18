@@ -32,6 +32,11 @@ function Navbar() {
                   Login
                 </Link>
               </li>
+              <li className="nav-item">
+                <Link className="nav-link active" to="/createuser">
+                  SignUp
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
